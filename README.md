@@ -5,7 +5,6 @@ This repository contains code and sample data to demonstrate the ability to pred
 # Authors
 
 - Sam St. John
-- Faezeh Bagheri
 
 # Usage
 
